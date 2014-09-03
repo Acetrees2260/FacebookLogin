@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacebookLogin/FacebookLoginViewController.cs">
+    <Files>
+      <File FileName="FacebookLogin/AppDelegate.cs" Line="16" Column="16" />
+      <File FileName="FacebookLogin/FacebookLoginViewController.cs" Line="35" Column="35" />
+      <File FileName="FacebookLogin/Info.plist" />
+      <File FileName="FacebookLogin/Entitlements.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="FacebookLogin" expanded="True">
+            <Node name="ComponentReferenceFolder" expanded="True" />
+            <Node name="Resources" expanded="True" />
+            <Node name="FacebookLoginViewController.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
